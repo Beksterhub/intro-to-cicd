@@ -2,5 +2,5 @@
 function sayHi(name) {
   return `Hello ${name}`
 }
-
+// A comment explaining the function
 module.exports = sayHi
